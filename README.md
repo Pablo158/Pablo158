@@ -34,14 +34,14 @@ Here are some ideas to get you started:
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="file:///C:/Users/PC/Desktop/295843327_1652244761828819_2977921229693885322_n.jpg" />
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <br />
 
 ### Hola 🙋‍♂️,
