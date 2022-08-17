@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <br />
 
 ### Hola 🙋‍♂️,
