@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bievenido 👋
 
 <!--
 **Pablo158/Pablo158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 #### - 🛸 Autodidacta 
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/trolls111156)
+#### - 💬 Conectate ? Aqui 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/trolls111156)
 
 
 <br />
@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 **"Una de las cosas más fascinantes de los programadores es que no puedes saber si están trabajando o no sólo con mirarlos. A menudo están sentados aparentemente tomando café, chismorreando o mirando a las nubes. Sin embargo, es posible que estén poniendo en orden todas las ideas individuales y sin relación que pululan por su mente". 😼**
 <br />
 
-
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
